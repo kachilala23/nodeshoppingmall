@@ -1,0 +1,10 @@
+ls -a 
+will list all the content inside this directory
+rm -rf .git // will remove the git in the react client app.
+move the gitignore file into the root
+remove the node_modules and replace with 
+node_modules
+node_modules/
+this is to track the node modules both in the client and server.
+add .env as well in the git ignore
+cd to the root then init git there.
