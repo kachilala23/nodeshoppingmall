@@ -8,3 +8,16 @@ node_modules/
 this is to track the node modules both in the client and server.
 add .env as well in the git ignore
 cd to the root then init git there.
+
+we make use of rafce to generate our react arrow function component export
+
+React Bootstrap:
+https://react-bootstrap.github.io/   // npm i react-bootstrap
+
+Bootswatch:
+https://bootswatch.com/
+
+We download the min.css we want to use from the link above (https://bootswatch.com/) and paste
+inside the src folder. Then import it in index.js. Go into the client and run
+npm i react-bootstrap
+
